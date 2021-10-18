@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
+.menu {
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+.music
+{
+    border-radius: 350px;
+}
+h1
+{
+    font-size: 60px;
+}
+
+
